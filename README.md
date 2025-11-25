@@ -104,7 +104,7 @@ Meow aims to create a centralized hub where cat lovers can:
 - Built with Selenium  
 
 <img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221025.png?raw=true" />
-<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221025.png?raw=true](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221125.png?raw=true" />
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221125.png?raw=true" />
 
 ---
 
