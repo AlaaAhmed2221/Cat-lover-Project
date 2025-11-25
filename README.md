@@ -1,5 +1,5 @@
 
-#Meow - Cat Community Platform 🐱
+#Meow - Cat Community 🐱
 
 
 Welcome to Meow, a purr-fect web platform for cat lovers! This community hub combines social sharing, expert veterinary advice via a smart chatbot, and real-time veterinary clinic searches. Built with love for felines, Meow helps cat owners connect, learn, and care for their furry friends in one seamless interface.
@@ -113,7 +113,7 @@ You'll see "Sign Out" once authenticated.
 Posting in the Community
 
 Go to the "Community" section.
-Log in if needed.
+Log in needed.
 Type your cat story in the input field.
 Click "Post".
 Watch it appear at the top of the feed! 🎉
