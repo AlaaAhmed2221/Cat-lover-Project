@@ -74,6 +74,7 @@ Meow aims to create a centralized hub where cat lovers can:
 - Cat-themed visuals  
 - Quick navigation  
 - CTA buttons (signup/login/chat)
+
 <img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220708.png?raw=true" />
 
 <h3 style="font-size:26px;">👥 Community Forum</h3>
@@ -82,26 +83,28 @@ Meow aims to create a centralized hub where cat lovers can:
 - Threaded comments  
 - Reverse chronological feed  
 - Auth-protected posting 
-<img width="1366" height="768" alt="image" src="[https://github.com/user-attachments/assets/371db606-bdc9-4558-a111-1a11b1714601](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220900.png?raw=true)" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/371db606-bdc9-4558-a111-1a11b1714601](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220900.png?raw=true" />
 <img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220940.png?raw=true" />
-<img width="1366" height="768" alt="image" src="[https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220940.png?raw=true](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221001.png?raw=true)" />
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220940.png?raw=true](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221001.png?raw=true" />
 
 <h3 style="font-size:26px;">🤖 Cat Assistant Chatbot</h3>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8852e0cb-4e35-434e-b44c-90986998b9b1" />
-
 - RAG-based AI using veterinary sources  
 - English & Arabic support  
 - Chat history  
 - Cute pastel interface  
-- Backup AI models available  
+- Backup AI models available
+
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8852e0cb-4e35-434e-b44c-90986998b9b1](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220835.png?raw=true" />
 
 <h3 style="font-size:26px;">🏥 Veterinary Clinic Search</h3>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/90ae847b-7389-407b-9b2e-60ec3b9c261e" />
-
 - Google Maps real-time scraping  
 - Extracts rating, address, website, phone, hours  
 - Scrolls to load up to 30 clinics  
 - Built with Selenium  
+
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221025.png?raw=true" />
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221025.png?raw=true](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221125.png?raw=true" />
 
 ---
 
