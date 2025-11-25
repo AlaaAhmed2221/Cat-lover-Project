@@ -39,7 +39,34 @@ Meow aims to create a centralized hub where cat lovers can:
 ### 🎯 Target Users
 - Cat owners seeking advice  
 - Pet lovers wanting to share stories  
-- New cat parents needing guidance  
+- New cat parents needing guidance
+  
+---
+
+<h2 id="tech" style="font-size:34px; color:#ff69b4;">🛠️ Tech Stack</h2>
+
+### 🎨 Frontend
+- HTML5  
+- CSS3 (pastel, responsive)  
+- Vanilla JavaScript  
+- Mobile-first design  
+
+### 🧠 Backend
+- Python 3  
+- Flask  
+- Flask-CORS  
+- Flask-SQLAlchemy  
+- Selenium  
+- LangChain + FAISS  
+
+### 🗄️ Database
+- SQL Server  
+
+### 🔗 External APIs
+- Random User API (avatars)  
+- Google Maps  
+- GPT-4o-mini + backups  
+- File handlers (PyPDF2, python-pptx)   
 
 ---
 
@@ -75,33 +102,6 @@ Meow aims to create a centralized hub where cat lovers can:
 - Extracts rating, address, website, phone, hours  
 - Scrolls to load up to 30 clinics  
 - Built with Selenium  
-
----
-
-<h2 id="tech" style="font-size:34px; color:#ff69b4;">🛠️ Tech Stack</h2>
-
-### 🎨 Frontend
-- HTML5  
-- CSS3 (pastel, responsive)  
-- Vanilla JavaScript  
-- Mobile-first design  
-
-### 🧠 Backend
-- Python 3  
-- Flask  
-- Flask-CORS  
-- Flask-SQLAlchemy  
-- Selenium  
-- LangChain + FAISS  
-
-### 🗄️ Database
-- SQL Server  
-
-### 🔗 External APIs
-- Random User API (avatars)  
-- Google Maps  
-- GPT-4o-mini + backups  
-- File handlers (PyPDF2, python-pptx)  
 
 ---
 
