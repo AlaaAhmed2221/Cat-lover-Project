@@ -1,150 +1,153 @@
 
-#Meow - Cat Community Platform 🐱
+<h1 style="font-size:48px; color:#ff69b4; text-align:center; font-weight:900;">
+✨ Meow - Cat Community Platform 🐱 ✨
+</h1>
 
+<p align="center" style="font-size:20px; color:#444;">
+A beautiful community platform for cat lovers, featuring social sharing, a smart veterinary chatbot, and a real-time vet clinic finder.
+</p>
 
-Welcome to Meow, a purr-fect web platform for cat lovers! This community hub combines social sharing, expert veterinary advice via a smart chatbot, and real-time veterinary clinic searches. Built with love for felines, Meow helps cat owners connect, learn, and care for their furry friends in one seamless interface.
-Table of Contents
+---
 
-Project Overview
-Features
-Tech Stack
-Usage Guide
-Contributing
-License
+<h2 style="font-size:34px; color:#ff69b4;">📚 Table of Contents</h2>
 
-Project Overview
-Meow is a comprehensive web platform designed for cat enthusiasts to share experiences, seek expert advice, and access veterinary resources. It integrates a community forum for storytelling, a RAG-based chatbot for veterinary queries, and a Google Maps scraper for finding nearby vets.
-Purpose
+- <a href="#overview">Project Overview</a>
+- <a href="#features">Features</a>
+- <a href="#tech">Tech Stack</a>
+- <a href="#usage">Usage Guide</a>
+- <a href="#contribute">Contributing</a>
+- <a href="#license">License</a>
+
+---
+
+<h2 id="overview" style="font-size:34px; color:#ff69b4;">🐾 Project Overview</h2>
+
+Meow is a comprehensive web platform designed for cat enthusiasts to share experiences, seek expert advice, and access veterinary resources.  
+It integrates:
+- A community forum  
+- A RAG-based veterinary chatbot  
+- A Google Maps scraper for finding nearby vet clinics  
+
+### 🎯 Purpose
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed7828b8-9dae-4e80-b23d-9b66625bf3e0" />
 
 Meow aims to create a centralized hub where cat lovers can:
+- Share heartwarming stories and tips 🐾  
+- Build a supportive feline community  
+- Access reliable veterinary info and local clinic data  
 
-Share heartwarming stories and tips with fellow enthusiasts 🐾
-Build a supportive community focused on feline care and well-being
-Access reliable veterinary information and local clinic details effortlessly
+### 🎯 Target Users
+- Cat owners seeking advice  
+- Pet lovers wanting to share stories  
+- New cat parents needing guidance  
 
-Target Users
+---
 
-Cat owners seeking advice, support, and connections
-Pet care enthusiasts eager to share their experiences
-New cat parents needing guidance on health, toxins, and daily care
+<h2 id="features" style="font-size:34px; color:#ff69b4;">🌟 Features</h2>
 
-Features
-Meow packs a variety of cat-tastic features to enhance your experience!
-🏠 Home Section
+<h3 style="font-size:26px;">🏠 Home Section</h3>
+- Cat-themed visuals  
+- Quick navigation  
+- CTA buttons (signup/login/chat)
 
-Engaging introduction with feature highlights and cat-themed visuals
-Quick navigation links to community, chatbot, and vet search
-Call-to-action buttons to sign up, log in, or start chatting
-
-👥 Community Forum
+<h3 style="font-size:26px;">👥 Community Forum</h3>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/371db606-bdc9-4558-a111-1a11b1714601" />
 
-Create and share posts about your cat adventures 📝
-View posts in reverse chronological order (newest first) for fresh content
-React to posts with likes and dynamic count updates ❤️
-Comment on posts with nested threads for deeper discussions
-User avatars with profile pictures for a personal touch
-Authentication required to post, ensuring a safe space
+- Create & share cat stories  
+- Likes + counts ❤️  
+- Threaded comments  
+- Reverse chronological feed  
+- Auth-protected posting  
 
-🤖 Cat Assistant Chatbot
+<h3 style="font-size:26px;">🤖 Cat Assistant Chatbot</h3>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8852e0cb-4e35-434e-b44c-90986998b9b1" />
 
-AI-powered assistant providing helpful responses to cat-related queries
-Uses Retrieval-Augmented Generation (RAG) with veterinary data sources (e.g., books on toxicology and pharmacy)
-Supports natural language in English or Arabic, responding in the query's language
-Maintains chat history for contextual conversations
-Themed interface with pastel colors and cat logos for a fun vibe
-Fallback to alternative AI models if needed (e.g., OpenRouter or Hugging Face)
+- RAG-based AI using veterinary sources  
+- English & Arabic support  
+- Chat history  
+- Cute pastel interface  
+- Backup AI models available  
 
-🏥 Veterinary Clinic Search
+<h3 style="font-size:26px;">🏥 Veterinary Clinic Search</h3>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/90ae847b-7389-407b-9b2e-60ec3b9c261e" />
 
-Search for real veterinary clinics by location using Google Maps
-Scrapes details like name, rating, reviews, address, phone, hours, and website
-Loads up to 30 results with scrolling for more options
-Built with Selenium for reliable web scraping. This code sets up a headless Chrome browser, searches Google Maps, scrolls for more results, and extracts clinic info using CSS selectors and regex for robustness.
+- Google Maps real-time scraping  
+- Extracts rating, address, website, phone, hours  
+- Scrolls to load up to 30 clinics  
+- Built with Selenium  
 
-Tech Stack
-Meow is built with modern, efficient technologies for a smooth experience.
-Frontend
+---
 
-HTML5: Semantic markup for accessibility
-CSS3: Responsive design with media queries and pastel themes
-JavaScript (Vanilla): DOM manipulation and API interactions
-Responsive Design: Mobile-first approach for on-the-go cat lovers 📱
+<h2 id="tech" style="font-size:34px; color:#ff69b4;">🛠️ Tech Stack</h2>
 
-Backend
+### 🎨 Frontend
+- HTML5  
+- CSS3 (pastel, responsive)  
+- Vanilla JavaScript  
+- Mobile-first design  
 
-Python 3: Server-side logic and scripting
-Flask: Lightweight web framework for routing and API handling
-Flask-CORS: Cross-Origin Resource Sharing for secure frontend-backend communication
-Flask-SQLAlchemy: ORM for database operations
-Werkzeug: Security utilities like password hashing
-Selenium: For veterinary clinic scraping in vet.py
-LangChain & FAISS: For RAG in the chatbot, with Hugging Face embeddings
+### 🧠 Backend
+- Python 3  
+- Flask  
+- Flask-CORS  
+- Flask-SQLAlchemy  
+- Selenium  
+- LangChain + FAISS  
 
-Database
+### 🗄️ Database
+- SQL Server  
 
-SQL Server: Primary relational database for user data and posts
+### 🔗 External APIs
+- Random User API (avatars)  
+- Google Maps  
+- GPT-4o-mini + backups  
+- File handlers (PyPDF2, python-pptx)  
 
-External APIs & Libraries
+---
 
-Random User API: Generates user profiles and avatars
-Google Maps (via Scraper): Real-time vet clinic data
-AI Models: OpenAI GPT-4o-mini for chatbot responses, with fallbacks
-File Handlers: PyPDF2, python-pptx for processing veterinary documents
+<h2 id="usage" style="font-size:34px; color:#ff69b4;">📘 Usage Guide</h2>
 
-Usage Guide
-Creating an Account
+### ✨ Creating an Account
+- Click “Sign Up”  
+- Enter details  
+- Optional: upload profile picture  
 
-Click "Sign Up" in the navigation.
-Enter your first name, last name, email, and password.
-Optionally upload a profile picture 🐈.
-Click "Sign Up" to join the community!
+### ✨ Logging In
+- Enter email + password  
 
-Logging In
+### ✨ Posting in Community
+- Type story → click Post  
+- Appears at top 🎉  
 
-Click "Login".
-Enter your email and password.
-Click "Login".
-You'll see "Sign Out" once authenticated.
+### ✨ Interacting with Posts
+- ❤️ Like  
+- 💬 Comment  
 
-Posting in the Community
+### ✨ Using the Chatbot
+- Ask anything about cat health  
+- Multilingual, context-aware responses  
 
-Go to the "Community" section.
-Log in needed.
-Type your cat story in the input field.
-Click "Post".
-Watch it appear at the top of the feed! 🎉
+### ✨ Vet Search
+- Enter location  
+- Scroll through clinic results  
 
-Interacting with Posts
+---
 
-Like: Click the ❤️ icon to show love.
-Comment: Click the 💬 icon to open the section.
-Add Comment: Type your thoughts and click "Comment".
+<h2 id="contribute" style="font-size:34px; color:#ff69b4;">🤝 Contributing</h2>
 
-Using the Chatbot
+We’d love your help!  
+- Fork → branch → pull request  
+- Keep code clean & well-tested  
+- Update docs when needed  
 
-Navigate to the chatbot section.
-Ask questions like "What toxins harm cats?" in English or Arabic.
-Get context-aware responses based on veterinary sources.
-View your chat history for ongoing conversations.
+---
 
-Searching Vets
+<h2 id="license" style="font-size:34px; color:#ff69b4;">📄 License</h2>
 
-Enter a location (e.g., "New York") in the search bar.
-The scraper fetches clinics with details like ratings and contacts.
-Browse up to 30 results for the best options nearby.
+Licensed under **MIT License**.
 
-Contributing
-We'd love your help to make Meow even better! Fork the repo, create a branch, and submit a pull request. Follow these guidelines:
+---
 
-Keep code clean and cat-friendly 😺.
-Test features thoroughly.
-Update documentation as needed.
-
-For issues or ideas, open a GitHub issue.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Enjoy Meow and happy cat parenting! 🐾 If you have questions, reach out in the community forum.
+<p style="text-align:center; font-size:22px; color:#ff69b4; font-weight:bold;">
+🐾 Enjoy Meow – Happy Cat Parenting! 🐾
+</p>
