@@ -29,7 +29,7 @@ It integrates:
 - A Google Maps scraper for finding nearby vet clinics  
 
 ### 🎯 Purpose
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed7828b8-9dae-4e80-b23d-9b66625bf3e0" />
+<img width="1366" height="768" alt="image" src="https://github.com/Retaj512/Meow_cat-community/pull/1/commits/5cf5411571b258a2a89118f025252bdf90b8bef3#diff-50b40e3453a0c888b503ce976e4d25042099b2a74319256ce12408b90d958f31" />
 
 Meow aims to create a centralized hub where cat lovers can:
 - Share heartwarming stories and tips 🐾  
