@@ -29,8 +29,6 @@ It integrates:
 - A Google Maps scraper for finding nearby vet clinics  
 
 ### 🎯 Purpose
-<img width="1366" height="768" alt="image" src="C:\fin\pics\Screenshot 2025-11-25 220708.png" />
-
 Meow aims to create a centralized hub where cat lovers can:
 - Share heartwarming stories and tips 🐾  
 - Build a supportive feline community  
@@ -76,15 +74,17 @@ Meow aims to create a centralized hub where cat lovers can:
 - Cat-themed visuals  
 - Quick navigation  
 - CTA buttons (signup/login/chat)
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220708.png?raw=true" />
 
 <h3 style="font-size:26px;">👥 Community Forum</h3>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/371db606-bdc9-4558-a111-1a11b1714601" />
-
 - Create & share cat stories  
 - Likes + counts ❤️  
 - Threaded comments  
 - Reverse chronological feed  
-- Auth-protected posting  
+- Auth-protected posting 
+<img width="1366" height="768" alt="image" src="[https://github.com/user-attachments/assets/371db606-bdc9-4558-a111-1a11b1714601](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220900.png?raw=true)" />
+<img width="1366" height="768" alt="image" src="https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220940.png?raw=true" />
+<img width="1366" height="768" alt="image" src="[https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20220940.png?raw=true](https://github.com/AlaaAhmed2221/Cat-lover-Project/blob/main/Screenshot%202025-11-25%20221001.png?raw=true)" />
 
 <h3 style="font-size:26px;">🤖 Cat Assistant Chatbot</h3>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8852e0cb-4e35-434e-b44c-90986998b9b1" />
