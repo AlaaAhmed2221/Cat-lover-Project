@@ -12,8 +12,8 @@ A beautiful community platform for cat lovers, featuring social sharing, a smart
 <h2 style="font-size:34px; color:#ff69b4;">📚 Table of Contents</h2>
 
 - <a href="#overview">Project Overview</a>
-- <a href="#features">Features</a>
 - <a href="#tech">Tech Stack</a>
+- <a href="#features">Features</a>
 - <a href="#usage">Usage Guide</a>
 - <a href="#contribute">Contributing</a>
 - <a href="#license">License</a>
