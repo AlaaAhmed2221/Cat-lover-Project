@@ -196,54 +196,27 @@ Find veterinary clinics in your area:
 ```
 Cat-Community-Platform/
 │
-├── 📂 frontend/                    # Client-side code
-│   ├── index.html                  # Home page
-│   ├── community.html              # Forum page
-│   ├── chat.html                   # Chatbot interface
-│   ├── vet-finder.html             # Clinic search page
-│   ├── css/                        # Stylesheets
-│   │   ├── main.css                # Global styles
-│   │   └── responsive.css          # Mobile responsiveness
-│   └── js/                         # JavaScript files
-│       ├── main.js                 # Core functionality
-│       ├── community.js            # Forum interactions
-│       └── chat.js                 # Chatbot logic
-│
-├── 📂 backend/                     # Server-side code
-│   ├── app.py                      # Flask application entry
-│   ├── routes/                     # API endpoints
-│   │   ├── auth.py                 # Authentication routes
-│   │   ├── posts.py                # Community routes
-│   │   ├── chat.py                 # Chatbot routes
-│   │   └── vet.py                  # Vet finder routes
-│   ├── models/                     # Database models
-│   │   ├── user.py                 # User model
-│   │   ├── post.py                 # Post model
-│   │   └── comment.py              # Comment model
-│   ├── chatbot/                    # RAG chatbot
-│   │   ├── rag_engine.py           # LangChain + FAISS
-│   │   └── veterinary_data/        # Knowledge base
-│   └── scraper/                    # Vet finder scraper
-│       └── google_maps.py          # Selenium scraper
-│
-├── 📂 database/                    # Database files
-│   ├── schema.sql                  # Database schema
-│   └── migrations/                 # Schema updates
-│
-├── 📂 docs/                        # Documentation
-│   ├── API.md                      # API documentation
-│   └── SETUP.md                    # Setup instructions
-│
+├── app.ipynb                       # Main Jupyter notebook application
+├── community.db                    # SQLite database file
+├── core.py                         # Core functionality and utilities
+├── database.py                     # Database connection and operations
+├── models.py                       # Database models (User, Post, Comment)
+├── vet.py                          # Veterinary clinic finder (Selenium scraper)
 ├── requirements.txt                # Python dependencies
-└── README.md                       # This file
+
 ```
 
-### Component Details
+### File Details
 
-Each major folder contains:
-- **Modular Design** - Separated concerns for maintainability
-- **Clear Structure** - Easy to navigate and understand
-- **Documentation** - Inline comments and separate docs
+| File | Purpose |
+|------|---------|
+| **app.ipynb** | Main application notebook with Flask server and routes |
+| **community.db** | SQLite database storing users, posts, comments, and reactions |
+| **core.py** | Core utilities and helper functions |
+| **database.py** | Database initialization, connections, and query functions |
+| **models.py** | SQLAlchemy models for User, Post, Comment tables |
+| **vet.py** | Google Maps scraper for veterinary clinic search |
+| **requirements.txt** | List of required Python packages |
 
 ---
 
