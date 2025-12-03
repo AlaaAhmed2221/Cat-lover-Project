@@ -79,7 +79,7 @@ Welcome page with:
 ### 👥 Community Forum
 Share and connect with other cat lovers:
 - **Create & Share** - Post your cat stories and experiences
-- **Likes & Counts** - Show appreciation with ❤️
+- **React with Emojis** - Express your feelings with emoji reactions
 - **Threaded Comments** - Reply and engage in discussions
 - **Reverse Chronological Feed** - Newest posts appear first
 - **Auth-Protected Posting** - Sign up required to post
@@ -135,7 +135,7 @@ Find veterinary clinics in your area:
 4. Your story appears at the top of the feed 🎉
 
 ### ✨ Interacting with Posts
-- **Like** - Click ❤️ to show appreciation
+- **React** - Express yourself with emoji reactions
 - **Comment** - Click 💬 to add your thoughts
 - **Read** - Browse stories from other cat lovers
 
